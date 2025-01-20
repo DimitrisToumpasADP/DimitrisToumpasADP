@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DimitrisToumpasADP
+- 👀 I’m interested in C# and C++
+- 🌱 I’m currently learning .NET ASP Blazor
+- 💼 I'm doing my Intership at adp
+- ⚡ Fun fact: My hobby is Game Development
