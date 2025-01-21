@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimitrisToumpasADP
+- 👋 Hi, I’m Dimitris Toumpas
 - 👀 I’m interested in C# and C++
 - 🌱 I’m currently learning .NET ASP Blazor
 - 💼 I'm doing my Intership at adp
